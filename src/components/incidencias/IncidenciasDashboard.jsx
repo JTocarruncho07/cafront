@@ -60,7 +60,7 @@ const IncidenciasDashboard = () => {
         } finally {
             setLoading(false);
         }
-    };
+     };
 
     const loadActivos = async () => {
         try {
